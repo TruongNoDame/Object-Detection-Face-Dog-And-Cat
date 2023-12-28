@@ -1,7 +1,7 @@
 # Object detection for face of car and dog
 
     git clone https://github.com/TruongNoDame/Object-Detection-Face-Dog-And-Cat.git
-    cd Demo-Cat-and-Dog-Face-detection-using-App-Streamlit
+    cd Object-Detection-Face-Dog-And-Cat
     
     pip install -r requirements.txt
     
